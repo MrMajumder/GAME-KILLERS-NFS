@@ -42,7 +42,7 @@ void iDraw()
 
 	if(step==0)  //for the main menu. Other step values mean the following buttons of the menu(Given below gradually):
     {
-        if(flag_w==1&& xchange3<=(xchange2+ghost_w)&&xchange3>=xchange2)
+        if(flag_w==1&& xchange3<(xchange+ghost_w)&&xchange3>xchange)
         {
             flag_g=0; // F : ghost vanishing
         }
@@ -213,8 +213,8 @@ void ghostmove()
     ////ychange2 += dy2;
 	if(xchange > WIDTH -50|| xchange < 0)dx = -dx;
 	if(ychange > HEIGHT || ychange < 0)dy = -dy;
-	if(xchange2 > WIDTH || xchange2 < 0) dx2 = 0;
-	if(ychange2 > HEIGHT || ychange2 < 0)dy2 = 0;
+	if(xchange2 > WIDTH ) xchange2= 0;
+	if(ychange2 > HEIGHT || ychange2 < 0) ychange2 = 0;
 }
 
 
@@ -223,7 +223,7 @@ int main()
 {
 	//place your own initialization codes here.
 	iSetTimer(200, ghostmove);
-	iSetTimer(500, fire_off);
+	iSetTimer(1000, fire_off);
 	FILE *fp;
 
 
