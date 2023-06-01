@@ -56,7 +56,9 @@
 
 **Kill Thorne** has been submitted as the final project for the course "CSE 102: Structured Programming Language Sessional". The project is a C-based graphics game that uses the custom graphics library "iGraphics", featuring 2D level based environment and simple controls and shooting to clear levels, and boss at the end.
 
-The project is mainly made with C (programming language) and "iGraphics" used for graphics and rendering. The graphics library being custom made and lacking many features, all the projects were really laggy and slow, still we managed to pull off a moderately good experience for the user.
+The project is mainly made with C (programming language) and "iGraphics" used for graphics and rendering. The graphics library being custom made and lacking many features, all the projects were really laggy and slow, still we managed to pull off a moderately good experience for the user. 
+
+[![Youtube Link](https://img.shields.io/badge/Youtube%20Link-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/LVSId1obOoE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,6 +67,7 @@ The project is mainly made with C (programming language) and "iGraphics" used fo
 ### Built With
 
 [![C language][C_img]][c_url]
+[![Cpp][cpp_img]][cpp_url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,8 +96,6 @@ This is a list of things you need to use the software and how to install them.
   ```
 
 ### Installation
-
-
 1. Clone the repo
    ```sh
    git clone https://github.com/mrmajumder/GAME-KILLERS-NFS.git
@@ -145,3 +146,5 @@ This is a list of things you need to use the software and how to install them.
 [website-url]: https://mrmajumder.github.io/
 [C_img]: https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white
 [c_url]: https://en.wikipedia.org/wiki/C_(programming_language)
+[cpp_img]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
+[cpp_url]: https://cplusplus.com/
