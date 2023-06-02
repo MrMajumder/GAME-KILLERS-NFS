@@ -4,8 +4,8 @@
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+[![Youtube Link][youtube-shield]](https://youtu.be/LVSId1obOoE)
 
 
 <!-- PROJECT LOGO -->
@@ -58,7 +58,7 @@
 
 The project is mainly made with C (programming language) and "iGraphics" used for graphics and rendering. The graphics library being custom made and lacking many features, all the projects were really laggy and slow, still we managed to pull off a moderately good experience for the user. 
 
-[![Youtube Link](https://img.shields.io/badge/Youtube%20Link-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/LVSId1obOoE)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,6 +141,7 @@ This is a list of things you need to use the software and how to install them.
 [license-url]: https://github.com/mrmajumder/GAME-KILLERS-NFS/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/monsieurmajumder
+[youtube-shield]: https://img.shields.io/badge/Youtube%20Link-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 [github-url]: https://github.com/MrMajumder/
 [email]: mailto:monsieurmajumder@gmail.com
 [website-url]: https://mrmajumder.github.io/
