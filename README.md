@@ -111,8 +111,8 @@ This is a list of things you need to use the software and how to install them.
 ## Contributors
 
 * Shafayat Hossain Majumder - [GitHub][github-url] | [LinkedIn][linkedin-url] | [Mail][email] | [Website][website-url]
-* Fahmid Al Rifat - [GitHub](https://github.com/FahmidAR) | [LinkedIn](https://www.linkedin.com/in/fahmid-al-rifat-626816152/) | [Mail](alrifatfahmid2@gmail.com) | [Website](https://fahmidar.github.io/)
-* Noshin Ulfat - [GitHub](https://github.com/NoshinUlfat) | [LinkedIn](https://www.linkedin.com/in/noshin-ulfat-abb555256/) | [Mail](ulfat.noshin.007@gmail.com)
+* Fahmid Al Rifat - [GitHub](https://github.com/FahmidAR) | [LinkedIn](https://www.linkedin.com/in/fahmid-al-rifat-626816152/) | [Mail](mailto:alrifatfahmid2@gmail.com) | [Website](https://fahmidar.github.io/)
+* Noshin Ulfat - [GitHub](https://github.com/NoshinUlfat) | [LinkedIn](https://www.linkedin.com/in/noshin-ulfat-abb555256/) | [Mail](mailto:ulfat.noshin.007@gmail.com)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -142,7 +142,7 @@ This is a list of things you need to use the software and how to install them.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/monsieurmajumder
 [github-url]: https://github.com/MrMajumder/
-[email]: monsieurmajumder@gmail.com
+[email]: mailto:monsieurmajumder@gmail.com
 [website-url]: https://mrmajumder.github.io/
 [C_img]: https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white
 [c_url]: https://en.wikipedia.org/wiki/C_(programming_language)
